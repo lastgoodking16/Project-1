@@ -1,0 +1,11 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# API keys or secrets
+config.py
+git add .
+git commit -m "Initial commit: Set up algorithmic trading bot"
